@@ -1,7 +1,7 @@
 ## 常见题型
 
-## 算法思维
-
+## 算法导图
+https://www.mubucm.com/doc/51DX8mfUiVT
 ### LeetCode Algorithm
 
 | #    | Title | Solution | Difficulty | Types |
