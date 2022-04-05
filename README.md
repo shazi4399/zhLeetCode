@@ -11,3 +11,4 @@ https://www.mubucm.com/doc/51DX8mfUiVT
 |22|[ 括号生成](https://leetcode-cn.com/problems/generate-parentheses/)|[C++](./22/)|middle|回溯|
 |47|[全排列II](https://leetcode-cn.com/problems/permutations-ii/)|[C++](./47/)|middle|回溯|
 |39|[组合总和](https://leetcode-cn.com/problems/combination-sum/)|[C++](./39/)|middle|回溯|
+|40|[组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii)|[C++](./40/)|middle|回溯|
